@@ -8,3 +8,9 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.d2
+{
+    background-image: url(./bg2.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
